@@ -1,0 +1,8 @@
+
+streamlit
+tensorflow
+numpy
+opencv-python-headless
+gdown
+googletrans==4.0.0-rc1
+  
