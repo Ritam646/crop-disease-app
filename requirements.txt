@@ -1,8 +1,8 @@
 
-streamlit
-tensorflow
-numpy
-opencv-python-headless
-gdown
-googletrans==4.0.0-rc1
-  
+streamlit==1.38.0
+tensorflow-cpu==2.15.0
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+gdown==5.2.0
+deep-translator==1.11.4
+matplotlib==3.9.2
